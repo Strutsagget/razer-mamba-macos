@@ -1,0 +1,8 @@
+# Byggresultat
+/razerctl
+RazerToggle/build/
+
+# Lokala filer som inte hör till projektet
+firebase-debug.log
+RazerToggle/make-icon.swift
+.DS_Store
